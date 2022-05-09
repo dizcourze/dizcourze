@@ -1,19 +1,15 @@
 # dizcourze
 An anonymous social networking service.
 
-### info
-- concepting curently
-- contributions are welcomed
-
-### rules
-- be polite
-
-### issues
-- file not minified
+### build
+- firebase
+- cloudflare
 
 ### roadmap
-- considering RethinkDB
-- considering Supabase
+check out [dizcourze/dev](https://github.com/dizcourze/dev)!<br>
+will switch to own infrastructure when funds are sufficient!
 
-### donate
-- 0xB280C2181C34B14a0F9CB39cf6C610260A767761
+### contribution
+contributions are welcome!<br>
+donate via bitcoin/ethereum address!<br>
+check out [more](https://dizcourze.com/more)!
