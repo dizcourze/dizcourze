@@ -1,2 +1,2 @@
 # dizcourze
-An anonymous social networking service.
+An anonymous social media.
